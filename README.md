@@ -12,7 +12,7 @@
 - **Frameworks:** Next.js, Spring Boot (with more on the horizon).
 - **Databases:** MongoDB (data management expert).
 - **Frontend:** React.js, Bootstrap, Tailwind CSS (building user-centric interfaces).
-- **Tools:** VSCode, Linux (trusted development companions).
+- **Tools:** VSCode, Linux,Figma (trusted development companions).
 - **Stack:** MERN (MongoDB, Express.js, React.js, Node.js) - strong foundation.
 
 ## Projects 🛠️
